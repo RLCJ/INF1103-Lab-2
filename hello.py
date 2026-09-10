@@ -46,5 +46,7 @@ if age > 40 and category == "music":
     print("So old but a music lover!")
 elif category == "music":
     print("You are into music!")
+elif age > 40:
+    print("Just old but not a music lover!")
 else:
     print("You are not into music..?")
