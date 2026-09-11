@@ -15,7 +15,7 @@ def calculate(first_number, operator, second_number):
 
 def main():
     print("Simple Calculator")
-    print("Enter 'q' to quit.")
+    print("Enter 'q' to Quit.")
 
     while True:
         expression = input("Enter a calculation (for example, 5 + 3): ").strip()
@@ -32,3 +32,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+    
