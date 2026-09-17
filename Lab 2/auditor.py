@@ -44,4 +44,4 @@ def process_stock_deliveries():
 
 
 if __name__ == "__main__":
-    process_stock_deliveries()
+    process_stock_deliveries();
